@@ -1,0 +1,41 @@
+ol {
+  margin-left: -40px;
+  margin-top: -20px;
+  list-style-position: inside;
+}
+
+body{
+  background: rgb(228, 230, 231);
+}
+
+*{
+  text-align: center;
+}
+
+h1,h2{
+ color: rgb(221, 14, 76);
+ background-color: black;
+}
+
+.note{
+  color: rgb(210, 223, 29);
+  font-size: 20px;
+  background-color: white;
+}
+
+li[value="2"]{
+  color: rgb(30, 209, 84);
+}
+
+li[id="id-selector-demo"]{
+  color: rgb(42, 108, 184);
+}
+
+li[value="4"]{
+  color: rgb(96, 174, 177);
+}
+
+li[value="5"]{
+  color: gold;
+}
+/* Write your CSS below, don't change the rules above. */
